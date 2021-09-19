@@ -1,0 +1,65 @@
+.upper-bar {
+
+background-color: #08526d;	\\whitesmoke;
+color: #FFF; \\#ec1c34;
+padding: 10px;
+border-top: solid;
+    border-top-color: currentcolor;
+border-top-color: black;
+
+
+}
+.h5, h5 {
+    font-size: 4.25rem;
+}
+
+.col-sm i {
+	text-align: right;
+
+}
+.col-sm span {
+	padding-left: 150px;
+
+}
+.navbar-brand {	padding-right: 60px;
+margin: -86px;}
+.navbar-brand > span {
+	font-size: x-large;
+}
+.navbar-brand span:first-child {
+	color: #08526d;
+}
+.navbar-brand span:last-child {
+	font-weight: bold;
+	color: #ec1c34;
+}
+.navbar-light .navbar-nav .nav-link {
+	font-size: large;
+	font-weight: initial;
+	margin-left: 10px;
+	color: #08526d;
+	text-transform: uppercase;
+}
+.navbar-light .navbar-nav .active > .nav-link {
+	color: #ec1c34;
+}
+
+.slider {
+	background-color: #6c757d;
+  font-size:40px;
+}
+.slider .carousel-item {
+	-webkit-background-size : cover;
+	-moz-background-size : cover;
+	-o-background-size : cover;
+	background-size : cover;
+}
+.slider .carousel-one {
+	background-image: url('../img/.jpg');
+}
+.slider .carousel-two {
+		background-image: url('../img/.jpg');
+}
+.slider .carousel-three {
+		background-image: url('../img/.jpg');
+}
